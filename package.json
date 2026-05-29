@@ -38,7 +38,8 @@
     "react-dom": "^19.0.0",
     "react-router": "^7.0.0",
     "tailwind-merge": "^3.5.0",
-    "tsx": "^4.20.6"
+    "tsx": "^4.20.6",
+    "@qb/agentic": "file:./app/modules/agentic"
   },
   "devDependencies": {
     "@react-router/dev": "^7.0.0",
