@@ -1,4 +1,4 @@
-import { useLoaderData } from "react-router-dom";
+import { useLoaderData } from "react-router";
 import { FruitAnalyzer } from "~/modules/agentic/components/fruit-analyzer";
 
 // 1. Export the loader function returning your JSON
